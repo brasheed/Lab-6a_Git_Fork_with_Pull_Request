@@ -2,6 +2,7 @@
 Practice Forking and Pull Request
 
 Fork this repository 
-Add your name in the ReadMe.md file, Suggesting improvement in this project
+Add your name in the ReadMe.md file (William Ambeault), Suggesting improvement in this project
 Creating a pull request, you can not push as you are not a collaborator in this project
 
+(Maybe add an index.html file here just to play around with?)
